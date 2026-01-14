@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1a7a02f2.css",
+    "main.js": "/static/js/main.889b6e7e.js",
+    "static/js/453.63d6146f.chunk.js": "/static/js/453.63d6146f.chunk.js",
+    "static/media/Poppins-Italic.ttf": "/static/media/Poppins-Italic.e373f6163127e2d469af.ttf",
+    "static/media/Poppins-Light.ttf": "/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/Inconsolata-Medium.ttf": "/static/media/Inconsolata-Medium.17ee466162778d941a17.ttf",
+    "static/media/Inconsolata-Light.ttf": "/static/media/Inconsolata-Light.47f0ba8444a3f6cd1650.ttf",
+    "static/media/Inconsolata-Regular.ttf": "/static/media/Inconsolata-Regular.30af9e9bb75a689b99e6.ttf",
+    "static/media/Profilmyndd.jpg": "/static/media/Profilmyndd.5fd43fc29800022c1f37.jpg",
+    "index.html": "/index.html",
+    "main.1a7a02f2.css.map": "/static/css/main.1a7a02f2.css.map",
+    "main.889b6e7e.js.map": "/static/js/main.889b6e7e.js.map",
+    "453.63d6146f.chunk.js.map": "/static/js/453.63d6146f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a7a02f2.css",
+    "static/js/main.889b6e7e.js"
+  ]
+}
